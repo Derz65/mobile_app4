@@ -26,7 +26,7 @@
 <br><strong>Задание № 5:Генератор случайных картинок </strong></br><b>![](https://github.com/Derz65/mobile_app4/raw/main/screenshot/1.5.jpg)
 <br><strong>Задание № 6:Поиск Gif-изображений </strong></br><b>![](https://github.com/Derz65/mobile_app4/raw/main/screenshot/1.6.jpg)
 <br><strong>Задание № 8:Поиск рецептов </strong></br><b>![](https://github.com/Derz65/mobile_app4/raw/main/screenshot/1.8.jpg)
-<br><strong>Задание № 10:Генератор случайных фактов </strong></br><b>![](https://github.com/Derz65/mobile_app4/raw/main/screenshot/1.10.jpg)
+<br><strong>Задание № 10:Генератор случайных фактов </strong></br><b>![](https://github.com/Derz65/mobile_app4/raw/main/screenshot/1.10.1.jpg)
 <br><strong>Задание № 19:Генератор случайных паролей </strong></br><b>![](https://github.com/Derz65/mobile_app4/raw/main/screenshot/1.19.jpg)
 <br><strong>Задание № 21:Анализ настроения текста с использованием библиотеки dio </strong></br><b>![](https://github.com/Derz65/mobile_app4/raw/main/screenshot/1.23.jpg)
 <br><strong>Задание № 24:Поиск Gif-изображений с использованием библиотеки dio </strong></br><b>![](https://github.com/Derz65/mobile_app4/raw/main/screenshot/1.24.jpg)
